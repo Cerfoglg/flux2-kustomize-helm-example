@@ -21,4 +21,4 @@ spec:
   values:
     service:
       type: NodePort
-    replicaCount: 2
+    replicaCount: 3
